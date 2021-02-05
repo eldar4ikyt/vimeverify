@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Игрок",
+        "group": "PLAYER",
+        "prefix": "[Игрок]",
+        "color": "#ffffff"
+    },
+    {
+        "name": "VIP",
+        "group": "VIP",
+        "prefix": "[V]",
+        "color": "#00be00"
+    },
+    {
+        "name": "Premium",
+        "group": "PREMIUM",
+        "prefix": "[P]",
+        "color": "#00dada"
+    },
+    {
+        "name": "Holy",
+        "group": "HOLY",
+        "prefix": "[H]",
+        "color": "#ffba2d"
+    },
+    {
+        "name": "Immortal",
+        "group": "IMMORTAL",
+        "prefix": "[I]",
+        "color": "#e800d5"
+    },
+    {
+        "name": "Билдер",
+        "group": "BUILDER",
+        "prefix": "[Билдер]",
+        "color": "#009c00"
+    },
+    {
+        "name": "Главный билдер",
+        "group": "MAPLEAD",
+        "prefix": "[Гл. билдер]",
+        "color": "#ffffff"
+    },
+    {
+        "name": "YouTube",
+        "group": "YOUTUBE",
+        "prefix": "[YouTube]",
+        "color": "#fe3f3f"
+    },
+    {
+        "name": "Разработчик",
+        "group": "DEV",
+        "prefix": "[Dev]",
+        "color": "#00bebe"
+    },
+    {
+        "name": "Организатор",
+        "group": "ORGANIZER",
+        "prefix": "[Организатор]",
+        "color": "#00bebe"
+    },
+    {
+        "name": "Модератор",
+        "group": "MODER",
+        "prefix": "[Модер]",
+        "color": "#1b00ff"
+    },
+    {
+        "name": "Проверенный модератор",
+        "group": "WARDEN",
+        "prefix": "[Пр. модер]",
+        "color": "#1b00ff"
+    },
+    {
+        "name": "Главный модератор",
+        "group": "CHIEF",
+        "prefix": "[Гл. модер]",
+        "color": "#1b00ff"
+    },
+    {
+        "name": "Главный админ",
+        "group": "ADMIN",
+        "prefix": "[Гл. админ]",
+        "color": "#00bebe"
+    }
+]

@@ -1,0 +1,22 @@
+{
+    "name": "vimeverify",
+    "version": "3.0.0",
+    "description": "Публичный Discord бот для верификации игроков VimeWorld в Discord",
+    "main": "index.js",
+    "author": "cipherskyinc",
+    "license": "MIT",
+    "private": true,
+    "scripts": {
+        "start": "node ."
+    },
+    "dependencies": {
+        "discord.js": "^12.4.1",
+        "dotenv-flow": "^3.2.0",
+        "express": "^4.17.1",
+        "moment": "^2.29.1",
+        "moment-duration-format": "^2.3.2",
+        "node-fetch": "^2.6.1",
+        "node-qiwi-api": "^2.1.2",
+        "rebirthdb-js": "github:vlfz/rethinkdb-js"
+    }
+}

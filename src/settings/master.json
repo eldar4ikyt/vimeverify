@@ -1,0 +1,5 @@
+{
+    "prefix": "v!",
+    "global_admin": ["***"],
+    "port": 7902
+}
